@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/observations"
+        android:icon="@drawable/bird_house__1_"
+        android:title="@string/observations" />
+    <item
+        android:id="@+id/leaderboard"
+        android:icon="@drawable/leaderboard"
+        android:title="@string/leaderboard" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/settings"
+        android:title="@string/settings" />
+</menu>

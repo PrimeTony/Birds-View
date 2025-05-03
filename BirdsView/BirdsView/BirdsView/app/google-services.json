@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505142035239",
+    "project_id": "birds-view-19956",
+    "storage_bucket": "birds-view-19956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505142035239:android:75e2a4b282afbdd05f5f02",
+        "android_client_info": {
+          "package_name": "com.example.birds_view"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRqoNfXNVy7mouQEKDkfx2bmmBkr14w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

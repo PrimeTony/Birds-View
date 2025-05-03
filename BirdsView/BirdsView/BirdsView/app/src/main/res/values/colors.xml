@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_background">#FFFAFAFA</color> <!-- Light background for a fresh look -->
+    <color name="text_primary">#FF1E88E5</color> <!-- Bright blue for primary text -->
+    <color name="text_secondary">#FF4CAF50</color> <!-- Green for secondary text -->
+    <color name="accent_color">#FF6200EE</color> <!-- Deep purple for accents -->
+    <color name="primary_color">#FF03DAC5</color> <!-- Teal for primary elements -->
+    <color name="background_color">#FFF5F5F5</color> <!-- Very light background -->
+    <color name="error_color">#FFB00020</color> <!-- Red for errors -->
+    <color name="button_color">#FF03DAC5</color> <!-- Teal for buttons -->
+    <color name="button_text_color">#FFFFFFFF</color> <!-- White text for buttons -->
+    <color name="bottom_nav_background">#FF4CAF50</color> <!-- Light background for bottom nav -->
+    <color name="bottom_nav_item_color">#FF1E88E5</color> <!-- Bright blue for bottom nav items -->
+    <color name="bottom_nav_selected_item_color">#FF03DAC5</color> <!-- Teal for selected bottom nav item -->
+    <color name="bottom_nav_unselected_item_color">#FF4CAF50</color> <!-- Green for unselected bottom nav items -->
+    <color name="bottom_nav_selected_item_background">#FF03DAC5</color> <!-- Teal for selected bottom nav item background -->
+
+    <color name="material_dynamic_primary50">#FF03DAC5</color>
+</resources>

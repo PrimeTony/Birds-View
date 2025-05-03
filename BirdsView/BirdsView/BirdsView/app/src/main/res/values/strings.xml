@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Birds-View</string>
+    <string name="observations">Observation</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in">Log In</string>
+    <string name="create_account">Create Account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="enter_max_distance_km_mi">Enter Max Distance (km/mi)</string>
+    <string name="max_distance_km_mi">Max Distance (km/mi)</string>
+    <string name="metric_km">Metric (km)</string>
+    <string name="imperial_mi">Imperial (mi)</string>
+    <string name="setting">Settings</string>
+    <string name="observation">Observations</string>
+    <string name="add_new_observation">Add new observation</string>
+    <string name="add_observation">add_observation</string>
+    <string name="addobservation">Add Observation</string>
+    <string name="bird_species">Bird Species</string>
+    <string name="observation_date">Observation Date</string>
+    <string name="observation_time">Observation Time</string>
+    <string name="location">Location</string>
+    <string name="notes">Notes</string>
+    <string name="save_observation">Save Observation</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="Password">Password</string>
+</resources>
